@@ -11,7 +11,7 @@ Unity를 이용해서 만든 2D게임.
 C#, Unity
 </br>
 ## 시연 영상
-(https://youtu.be/FBOp8ap3I3A)
+https://youtu.be/FBOp8ap3I3A
 
 ## 스크린샷
 ![KakaoTalk_20191021_144634695_03](https://user-images.githubusercontent.com/50066666/100858671-a2daf580-34d1-11eb-89c5-372d6fbc9f0c.jpg)
