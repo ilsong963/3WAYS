@@ -15,8 +15,8 @@ C#, Unity
 ![KakaoTalk_20191025_061353066](https://user-images.githubusercontent.com/50066666/100858668-a1a9c880-34d1-11eb-91d5-37e5ee0f8ba3.jpg)
 ![KakaoTalk_20191021_144634695_01](https://user-images.githubusercontent.com/50066666/100858669-a2daf580-34d1-11eb-938f-f4f6037df216.jpg)
 
-
 </br>
 ## 시연 영상
-https://youtu.be/FBOp8ap3I3A
+
 </br>
+https://youtu.be/FBOp8ap3I3A
