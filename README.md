@@ -10,6 +10,8 @@ Unity를 이용해서 만든 2D게임.
 
 C#, Unity
 </br>
+메인코드 : https://github.com/ilsong963/3WAYS/tree/master/Assets/Script/Main
+</br>
 ## 시연 영상
 https://youtu.be/FBOp8ap3I3A
 
